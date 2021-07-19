@@ -3,7 +3,7 @@ import "./style.css";
 const About = () => {
   return (
     <div className="skills">
-      <h1>Skills</h1>
+      <h1>Compétences</h1>
       <div className="content">
         <div>
           <strong>Languages:</strong>
@@ -13,7 +13,7 @@ const About = () => {
           <li>JavaScript</li>
         </div>
         <div>
-          <strong>Libraries:</strong>
+          <strong>Librairies:</strong>
           <li>Bootstrap</li>
           {/* <li>Express.js</li> */}
           <li>Material-ui</li>
@@ -22,7 +22,7 @@ const About = () => {
           <li>WordPress</li>
         </div>
         <div>
-          <strong>Tools:</strong>
+          <strong>Outils:</strong>
           {/* <li>Eslint</li> */}
           {/* <li>Webpack</li> */}
           <li>Chrome Dev</li>

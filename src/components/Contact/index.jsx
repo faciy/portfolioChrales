@@ -19,7 +19,7 @@ const About = () => {
       <h4>Email</h4>
       <p>kouassicharlesothniel@gmail.com</p>
 
-      <h4>Addresse</h4>
+      <h4>Adresse</h4>
       <p>Abidjan - Yopougon</p>
     </div>
   );
